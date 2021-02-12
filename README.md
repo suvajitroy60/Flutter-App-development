@@ -5,7 +5,7 @@ Try to get a hands on project on flutter app development
   <img src="docs/scenebmi.gif"> 
 </p>
 <p align="right">
-  <img src="docs/scene.gif" width="700"> 
+  <img src="docs/scenecode1.gif" width="700"> 
 </p>
 
 # Flutter Dice App

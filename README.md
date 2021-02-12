@@ -2,7 +2,7 @@
 Try to get a hands on project on flutter app development
 
 <p align="center">
-  <img src="docs/scenebmi.gif"  width="500"> 
+  <img src="docs/scenebmi.gif"> 
 </p>
 
 

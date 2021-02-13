@@ -7,6 +7,9 @@ Try to get a hands on project on flutter app development
 <p align="right">
   <img src="docs/scenecode1.gif" width="700"> 
 </p>
+<p align="center">
+  <img src="docs/scenexylo.gif"> 
+</p>
 
 # Flutter Dice App
 Give two values between 1 to 6

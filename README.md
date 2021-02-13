@@ -7,7 +7,7 @@ Try to get a hands on project on flutter app development
 <p align="right">
   <img src="docs/scenecode1.gif" width="700"> 
 </p>
-<p align="center">
+<p align="left">
   <img src="docs/scenexylo.gif"> 
 </p>
 
